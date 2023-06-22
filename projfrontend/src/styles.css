@@ -1,0 +1,26 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+
+/* Styles for the footer */
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #f5f5f5;
+  padding: 0px;
+}
+
+/* Styles for the form container */
+.form-container {
+  margin-bottom: 120px; /* Adjust this value to leave enough space for the footer */
+
+}
+
