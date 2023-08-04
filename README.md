@@ -15,8 +15,8 @@ This repository contains a full-fledged E-commerce website for selling trendy t-
 - Browse through a wide range of trendy t-shirts. :shirt:
 - User authentication and registration. :bust_in_silhouette:
 - Add items to the shopping cart. :shopping_cart:
+- Remove items from the shopping cart. :shopping_cart:
 - Secure checkout with Stripe payment integration. :lock:
-- Order history and order status tracking. :page_with_curl:
 - Admin panel to manage products, orders, and users. :briefcase:
 
 Feel free to contribute and make this E-commerce website even better! :sparkles:
